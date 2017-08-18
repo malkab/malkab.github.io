@@ -9,4 +9,4 @@ This Jekyll site is meant to be deployed on [GitHub Pages](https://pages.github.
 Testing with Docker
 ---
 
-There is a Docker, [malkab/Docker-Jekyll](https://hub.docker.com/r/malkab/jekyll/), to do local testing before uploading. Use the __docker-exec.sh__ script to test and head to __http://localhost:4000__.
+There is a Docker, [malkab/Docker-Jekyll](https://hub.docker.com/r/malkab/jekyll/), to do local testing before uploading. Use the __docker-run.sh__ script to test and head to __http://localhost:4000__.
