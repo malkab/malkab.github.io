@@ -14,3 +14,5 @@ werwe
 Setting up a blog:
 
 get Jekyll
+
+Layout can be modified with _layouts files.
